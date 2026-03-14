@@ -8,22 +8,22 @@ const projects = [
     title: "Dashboard App",
     image: "/dashboard.png",
     description: "React və Next.js ilə hazırlanmış admin panel dashboard.",
-    live: "https://example.com/dashboard",
-    github: "https://github.com/username/dashboard",
+    live: "https://dashboard-page-steel.vercel.app",
+    github: "https://github.com/Pasha-Ibrahim/dashboard.git",
   },
   {
     title: "Portfolio Site",
     image: "/portfolio.png",
     description: "Mənim şəxsi portfolio saytım.",
-    live: "https://example.com/portfolio",
-    github: "https://github.com/username/portfolio",
+    live: "",
+    github: "",
   },
   {
     title: "Blog App",
     image: "/blog.png",
     description: "Fullstack blog tətbiqi Next.js + Node.js ilə.",
-    live: "https://example.com/blog",
-    github: "https://github.com/username/blog",
+    live: "",
+    github: "",
   },
 ];
 
