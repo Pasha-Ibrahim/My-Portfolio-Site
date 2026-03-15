@@ -12,11 +12,11 @@ const projects = [
     github: "https://github.com/Pasha-Ibrahim/dashboard.git",
   },
   {
-    title: "Portfolio Site",
-    image: "/portfolio.png",
-    description: "Mənim şəxsi portfolio saytım.",
-    live: "",
-    github: "",
+    title: "Weather-App",
+    image: "/weatherapp.png",
+    description: "React.js ilə hazırlanmış Weather-App.",
+    live: "https://weather-app-gamma-lac-73.vercel.app/",
+    github: "https://github.com/Pasha-Ibrahim/Weather-App",
   },
   {
     title: "Blog App",
