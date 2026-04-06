@@ -39,6 +39,13 @@ const projects = [
     live: "https://clock-app-neon.vercel.app/",
     github: "https://github.com/Pasha-Ibrahim/Clock-App",
   },
+  {
+    title: "Calendar-App",
+    image: "/calendar.png",
+    description: "HTML CSS və JavaScript ilə hazırlanmış Calendar-App.",
+    live: "https://calendar-app-tau-green.vercel.app/",
+    github: "https://github.com/Pasha-Ibrahim/Calendar-App",
+  },
   
 ];
 
